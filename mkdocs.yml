@@ -34,10 +34,11 @@ nav:
         - Релизы и обновления: resources/ecosystem/releases-and-updates.md
         - Решения партнеров: resources/ecosystem/partner-solutions.md
     - Начало работы: 
-      - Как создать Workspace: 
-        - Как пригласить пользователя: getting-started/how-to-create-workspace.md/how-to-invite-user.md
-        - Как назначить администратора: getting-started/how-to-create-workspace.md/how-to-assign-admin.md
-        - "Практика: шаг за шагом...": getting-started/how-to-create-workspace.md/practice-step-by-step.md
+      - Workspace: 
+        - Как создать Workspace: getting-started/Workspace/how-to-create-workspace.md
+        - Как пригласить пользователя: getting-started/Workspace/how-to-invite-user.md
+        - Как назначить администратора: getting-started/Workspace/how-to-assign-admin.md
+        - "Практика: шаг за шагом...": getting-started/Workspace/practice-step-by-step.md
       - Мои треки: 
         - Как создать свой трек:
           - Участники трека: getting-started/my-tracks/how-to-create-track/track-participants.md
