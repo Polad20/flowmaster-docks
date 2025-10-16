@@ -41,17 +41,17 @@ nav:
         - "Практика: шаг за шагом...": getting-started/Workspace/practice-step-by-step.md
       - Мои треки: 
         - Как создать свой трек: getting-started/my-tracks/how-to-create-track.md
-        - Участники трека: getting-started/my-tracks/track-participants.md
-        - Атрибуты и свойства трека: getting-started/my-tracks/track-attributes-and-properties.md
-        - Показатели трека: getting-started/my-tracks/track-metrics.md
-        - Контроль по треку: getting-started/my-tracks/track-control.md
-        - "Практика: шаг за шагом...": getting-started/my-tracks/practice-step-by-step.md
         - Задачи:
           - Как создать задачу: getting-started/my-tracks/tasks/how-to-create-task-in-track.md
           - Атрибуты и свойства задачи: getting-started/my-tracks/tasks/task-attributes-and-properties.md
           - Показатели задачи: getting-started/my-tracks/tasks/task-metrics.md
           - Контроль выполнения задачи: getting-started/my-tracks/tasks/task-execution-control.md
           - "Практика: шаг за шагом...": getting-started/my-tracks/tasks/practice-step-by-step.md
+        - Участники трека: getting-started/my-tracks/track-participants.md
+        - Атрибуты и свойства трека: getting-started/my-tracks/track-attributes-and-properties.md
+        - Показатели трека: getting-started/my-tracks/track-metrics.md
+        - Контроль по треку: getting-started/my-tracks/track-control.md
+        - "Практика: шаг за шагом...": getting-started/my-tracks/practice-step-by-step.md
       - Заказчики и подрядчики (исполнители): 
         - Как пригласить подрядчика в трек: getting-started/clients-and-contractors/how-to-invite-contractor-to-track.md
         - Как поручить (делегировать) задачу подрядчику: getting-started/clients-and-contractors/how-to-delegate-task-to-contractor.md
