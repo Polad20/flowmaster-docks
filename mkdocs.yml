@@ -40,12 +40,12 @@ nav:
         - Как назначить администратора: getting-started/Workspace/how-to-assign-admin.md
         - "Практика: шаг за шагом...": getting-started/Workspace/practice-step-by-step.md
       - Мои треки: 
-        - Как создать свой трек:
-          - Участники трека: getting-started/my-tracks/how-to-create-track/track-participants.md
-          - Атрибуты и свойства трека: getting-started/my-tracks/how-to-create-track/track-attributes-and-properties.md
-          - Показатели трека: getting-started/my-tracks/how-to-create-track/track-metrics.md
-          - Контроль по треку: getting-started/my-tracks/how-to-create-track/track-control.md
-          - "Практика: шаг за шагом...": getting-started/my-tracks/how-to-create-track/practice-step-by-step.md
+        - Как создать свой трек: getting-started/my-tracks/how-to-create-track.md
+        - Участники трека: getting-started/my-tracks/track-participants.md
+        - Атрибуты и свойства трека: getting-started/my-tracks/track-attributes-and-properties.md
+        - Показатели трека: getting-started/my-tracks/track-metrics.md
+        - Контроль по треку: getting-started/my-tracks/track-control.md
+        - "Практика: шаг за шагом...": getting-started/my-tracks/practice-step-by-step.md
         - Как создать задачу в треке:
           - Атрибуты и свойства задачи: getting-started/my-tracks/how-to-create-task-in-track/task-attributes-and-properties.md
           - Показатели задачи: getting-started/my-tracks/how-to-create-task-in-track/task-metrics.md
@@ -90,7 +90,7 @@ nav:
 theme: 
   name: material
   custom_dir: overrides
-  language: ru 
+  language: ru  
 
 extra:
   toc_title: Оглавление
