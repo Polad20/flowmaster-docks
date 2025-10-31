@@ -1,4 +1,4 @@
-site_name: FlowMaster
+site_name: Flow.Master
 site_url: https://flowmaster.com/
 markdown_extensions:
   - admonition
@@ -16,15 +16,15 @@ markdown_extensions:
 
 nav:
     - Глоссарий: glossary.md
-    - Что такое FlowMaster: 
+    - Что такое Flow.Master: 
       - Почему это просто: what-is-flowmaster/why-it-s-simple.md
-      - Из чего состоит FlowMaster: what-is-flowmaster/what-is-flowmaster-made-of.md
+      - Из чего состоит Flow.Master: what-is-flowmaster/what-is-flowmaster-made-of.md
       - Что нужно для работы: what-is-flowmaster/what-you-need-to-work-with.md
-      - Как работать во FlowMaster: what-is-flowmaster/how-to-use-flowmaster.md
+      - Как работать во Flow.Master: what-is-flowmaster/how-to-use-flowmaster.md
       - Кто может быть пользователем: what-is-flowmaster/who-can-use-flowmaster.md
       - Какие данные можно использовать: what-is-flowmaster/what-data-can-be-used.md
       - API и интеграции: what-is-flowmaster/api-and-integrations.md
-    - Ресурсы FlowMaster:
+    - Ресурсы Flow.Master:
       - Практические ситуации: resources/practical-scenarios.md
       - Видеоинструкции: resources/video-tutorials.md
       - База знаний: resources/knowledge-base.md
