@@ -1,5 +1,5 @@
 site_name: Flow.Master
-site_url: https://flowmaster.com/
+site_url: https://flowmasterdocs.com/
 markdown_extensions:
   - admonition
   - pymdownx.details
@@ -16,55 +16,52 @@ markdown_extensions:
 
 nav:
     - Глоссарий: glossary.md
-    - Что такое Flow.Master: 
-      - Почему это просто: what-is-flowmaster/why-it-s-simple.md
-      - Из чего состоит Flow.Master: what-is-flowmaster/what-is-flowmaster-made-of.md
-      - Что нужно для работы: what-is-flowmaster/what-you-need-to-work-with.md
-      - Как работать во Flow.Master: what-is-flowmaster/how-to-use-flowmaster.md
-      - Кто может быть пользователем: what-is-flowmaster/who-can-use-flowmaster.md
-      - Какие данные можно использовать: what-is-flowmaster/what-data-can-be-used.md
-      - API и интеграции: what-is-flowmaster/api-and-integrations.md
-    - Ресурсы Flow.Master:
-      - Практические ситуации: resources/practical-scenarios.md
-      - Видеоинструкции: resources/video-tutorials.md
-      - База знаний: resources/knowledge-base.md
-      - Поддержка: resources/support.md
-      - Экосистема: 
-        - Запросы на расширения: resources/ecosystem/feature-requests.md
-        - Релизы и обновления: resources/ecosystem/releases-and-updates.md
-        - Решения партнеров: resources/ecosystem/partner-solutions.md
-    - Начало работы: 
-      - Workspace: 
-        - Как создать Workspace: getting-started/Workspace/how-to-create-workspace.md
-        - Как пригласить пользователя: getting-started/Workspace/how-to-invite-user.md
-        - Как назначить администратора: getting-started/Workspace/how-to-assign-admin.md
-        - "Практика: шаг за шагом...": getting-started/Workspace/practice-step-by-step.md
-      - Мои треки: 
-        - Как создать свой трек: getting-started/my-tracks/how-to-create-track.md
-        - Задачи:
-          - Как создать задачу: getting-started/my-tracks/tasks/how-to-create-task-in-track.md
-          - Атрибуты и свойства задачи: getting-started/my-tracks/tasks/task-attributes-and-properties.md
-          - Показатели задачи: getting-started/my-tracks/tasks/task-metrics.md
-          - Контроль выполнения задачи: getting-started/my-tracks/tasks/task-execution-control.md
-          - "Практика: шаг за шагом...": getting-started/my-tracks/tasks/practice-step-by-step.md
-        - Участники трека: getting-started/my-tracks/track-participants.md
-        - Атрибуты и свойства трека: getting-started/my-tracks/track-attributes-and-properties.md
-        - Показатели трека: getting-started/my-tracks/track-metrics.md
-        - Контроль по треку: getting-started/my-tracks/track-control.md
-        - "Практика: шаг за шагом...": getting-started/my-tracks/practice-step-by-step.md
-      - Заказчики и подрядчики (исполнители): 
-        - Как пригласить подрядчика в трек: getting-started/clients-and-contractors/how-to-invite-contractor-to-track.md
-        - Как поручить (делегировать) задачу подрядчику: getting-started/clients-and-contractors/how-to-delegate-task-to-contractor.md
-        - Как Подрядчику отразить результаты выполнения задач: getting-started/clients-and-contractors/how-contractor-reports-task-results.md
-        - Практика - шаг за шагом...: getting-started/clients-and-contractors/practice-step-by-step.md
-        - Как Заказчику учесть результаты выполнения задачи подрядчиком: getting-started/clients-and-contractors/how-client-accounts-for-contractor-results.md
-      - Можно ли приложить документ к треку или задаче?: 
-        - Какой документ можно приложить: getting-started/can-you-attach-document-to-track-or-task/what-documents-can-be-attached.md
-        - Как приложить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-attach-document.md
-        - Как обновить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-update-document.md
-        - Как удалить или заменить один документ другим: getting-started/can-you-attach-document-to-track-or-task/how-to-delete-or-replace-document.md
-        - Как сделать документ юридически значимым: getting-started/can-you-attach-document-to-track-or-task/how-to-make-document-legally-binding.md
-        - "Практика: шаг за шагом...": getting-started/can-you-attach-document-to-track-or-task/practice-step-by-step.md
+    # - Что такое Flow.Master: 
+    #   - Почему это просто: what-is-flowmaster/why-it-s-simple.md
+    #   - Из чего состоит Flow.Master: what-is-flowmaster/what-is-flowmaster-made-of.md
+    #   - Что нужно для работы: what-is-flowmaster/what-you-need-to-work-with.md
+    #   - Как работать во Flow.Master: what-is-flowmaster/how-to-use-flowmaster.md
+    #   - Кто может быть пользователем: what-is-flowmaster/who-can-use-flowmaster.md
+    #   - Какие данные можно использовать: what-is-flowmaster/what-data-can-be-used.md
+    #   - API и интеграции: what-is-flowmaster/api-and-integrations.md
+    # - Ресурсы Flow.Master:
+    #   - Практические ситуации: resources/practical-scenarios.md
+    #   - Видеоинструкции: resources/video-tutorials.md
+    #   - База знаний: resources/knowledge-base.md
+    #   - Поддержка: resources/support.md
+    #   - Экосистема: 
+    #     - Запросы на расширения: resources/ecosystem/feature-requests.md
+    #     - Релизы и обновления: resources/ecosystem/releases-and-updates.md
+    #     - Решения партнеров: resources/ecosystem/partner-solutions.md
+    - Как создать Workspace: getting-started/Workspace/how-to-create-workspace.md
+    - Как пригласить пользователя: getting-started/Workspace/how-to-invite-user.md
+    - Как назначить администратора: getting-started/Workspace/how-to-assign-admin.md
+      # - "Практика: шаг за шагом...": getting-started/Workspace/practice-step-by-step.md
+    - Как создать свой трек: getting-started/my-tracks/how-to-create-track.md
+    - Задачи:
+      - Как создать задачу: getting-started/my-tracks/tasks/how-to-create-task-in-track.md
+      - Атрибуты и свойства задачи: getting-started/my-tracks/tasks/task-attributes-and-properties.md
+      # - Показатели задачи: getting-started/my-tracks/tasks/task-metrics.md
+      - Контроль выполнения задачи: getting-started/my-tracks/tasks/task-execution-control.md
+      # - "Практика: шаг за шагом...": getting-started/my-tracks/tasks/practice-step-by-step.md
+    - Участники трека: getting-started/my-tracks/track-participants.md
+    - Атрибуты и свойства трека: getting-started/my-tracks/track-attributes-and-properties.md
+    - Показатели трека: getting-started/my-tracks/track-metrics.md
+    - Контроль по треку: getting-started/my-tracks/track-control.md
+      # - "Практика: шаг за шагом...": getting-started/my-tracks/practice-step-by-step.md
+    # - Заказчики и подрядчики (исполнители): 
+    #   - Как пригласить подрядчика в трек: getting-started/clients-and-contractors/how-to-invite-contractor-to-track.md
+    #   - Как поручить (делегировать) задачу подрядчику: getting-started/clients-and-contractors/how-to-delegate-task-to-contractor.md
+    #   - Как Подрядчику отразить результаты выполнения задач: getting-started/clients-and-contractors/how-contractor-reports-task-results.md
+    #   - Практика - шаг за шагом...: getting-started/clients-and-contractors/practice-step-by-step.md
+    #   - Как Заказчику учесть результаты выполнения задачи подрядчиком: getting-started/clients-and-contractors/how-client-accounts-for-contractor-results.md
+    - Можно ли приложить документ к треку или задаче?: 
+      - Какой документ можно приложить: getting-started/can-you-attach-document-to-track-or-task/what-documents-can-be-attached.md
+      - Как приложить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-attach-document.md
+      - Как обновить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-update-document.md
+      - Как удалить или заменить один документ другим: getting-started/can-you-attach-document-to-track-or-task/how-to-delete-or-replace-document.md
+      # - Как сделать документ юридически значимым: getting-started/can-you-attach-document-to-track-or-task/how-to-make-document-legally-binding.md
+      # - "Практика: шаг за шагом...": getting-started/can-you-attach-document-to-track-or-task/practice-step-by-step.md
       # - Договор по треку: 
       #   - Что такое "договор": getting-started/contract-in-track/what-is-a-contract.md
       #   - Сколько договоров может быть в одном треке: getting-started/contract-in-track/how-many-contracts-per-track.md
@@ -72,22 +69,22 @@ nav:
       #   - Можно ли структурировать договор по треку: 
       #     - Можно ли структурировать обязательства по договору: getting-started/contract-in-track/can-you-structure-contract-in-track/can-you-structure-contract-obligations.md
       #   - "Практика: шаг за шагом...": getting-started/contract-in-track/practice-step-by-step.md
-      - Бюджет трека: 
-        - Что такое "бюджет": getting-started/track-budget/what-is-budget.md
-        - Что может отражаться в бюджете: getting-started/track-budget/what-can-be-in-budget.md
-        - Что такое "показатель" бюджета: getting-started/track-budget/what-is-budget-metric.md
-        - Какие измерения может иметь показатель бюджета: getting-started/track-budget/budget-metric-units.md
-        - Какие документы можно приложить к показателю бюджета: getting-started/track-budget/documents-for-budget-metric.md
-        - Как создать бюджет трека: getting-started/track-budget/how-to-create-track-budget.md
-        - Как контролировать освоение бюджета: getting-started/track-budget/how-to-control-budget-spend.md
-        - Как связать бюджет и трек: getting-started/track-budget/how-to-link-budget-to-track.md
-        - Как делегировать бюджет Подрядчику: getting-started/track-budget/how-to-delegate-budget-to-contractor.md
-        - Как отчитаться по бюджету Заказчику: getting-started/track-budget/how-to-report-budget-to-client.md
-        - Как построить "профиль" риска по показателю бюджета: getting-started/track-budget/how-to-build-budget-risk-profile.md
-        - Дашборды по бюджету: getting-started/track-budget/budget-dashboards.md
-        - "Практика: шаг за шагом...": getting-started/track-budget/practice-step-by-step.md
-      - Дашборды по треку: getting-started/track-dashboards.md
-      - Практический кейс по треку: getting-started/practical-case-study-for-track.md
+    # - Бюджет трека: 
+    #   - Что такое "бюджет": getting-started/track-budget/what-is-budget.md
+    #   - Что может отражаться в бюджете: getting-started/track-budget/what-can-be-in-budget.md
+    #   - Что такое "показатель" бюджета: getting-started/track-budget/what-is-budget-metric.md
+    #   - Какие измерения может иметь показатель бюджета: getting-started/track-budget/budget-metric-units.md
+    #   - Какие документы можно приложить к показателю бюджета: getting-started/track-budget/documents-for-budget-metric.md
+    #   - Как создать бюджет трека: getting-started/track-budget/how-to-create-track-budget.md
+    #   - Как контролировать освоение бюджета: getting-started/track-budget/how-to-control-budget-spend.md
+    #   - Как связать бюджет и трек: getting-started/track-budget/how-to-link-budget-to-track.md
+    #   - Как делегировать бюджет Подрядчику: getting-started/track-budget/how-to-delegate-budget-to-contractor.md
+    #   - Как отчитаться по бюджету Заказчику: getting-started/track-budget/how-to-report-budget-to-client.md
+    #   - Как построить "профиль" риска по показателю бюджета: getting-started/track-budget/how-to-build-budget-risk-profile.md
+    #   - Дашборды по бюджету: getting-started/track-budget/budget-dashboards.md
+    #   - "Практика: шаг за шагом...": getting-started/track-budget/practice-step-by-step.md
+    # - Дашборды по треку: getting-started/track-dashboards.md
+    # - Практический кейс по треку: getting-started/practical-case-study-for-track.md
 theme: 
   name: material
   custom_dir: overrides
