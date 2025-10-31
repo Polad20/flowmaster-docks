@@ -56,7 +56,7 @@ nav:
     #   - Практика - шаг за шагом...: getting-started/clients-and-contractors/practice-step-by-step.md
     #   - Как Заказчику учесть результаты выполнения задачи подрядчиком: getting-started/clients-and-contractors/how-client-accounts-for-contractor-results.md
     - Можно ли приложить документ к треку или задаче?: 
-      - Какой документ можно приложить: getting-started/can-you-attach-document-to-track-or-task/what-documents-can-be-attached.md
+      # - Какой документ можно приложить: getting-started/can-you-attach-document-to-track-or-task/what-documents-can-be-attached.md
       - Как приложить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-attach-document.md
       - Как обновить документ: getting-started/can-you-attach-document-to-track-or-task/how-to-update-document.md
       - Как удалить или заменить один документ другим: getting-started/can-you-attach-document-to-track-or-task/how-to-delete-or-replace-document.md
